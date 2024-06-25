@@ -8,3 +8,4 @@ spec:
         name: hello-trigger-binding
       template:
         name: hello-trigger-template
+
